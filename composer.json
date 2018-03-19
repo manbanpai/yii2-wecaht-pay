@@ -1,0 +1,14 @@
+{
+    "name": "manbanpai/yii2-wechat-pay",
+    "description": "wechat pay",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=5.5"
+    },
+    "autoload":{
+        "psr-4":{
+            "manbanpai\\wechatpay":"src/"
+        }
+    }
+}
